@@ -14,6 +14,6 @@ Similar techniques have been used previously in [A<sup>2</sup>-Net](https://arxi
 ✓ label smoothing 0.1
 
 ## Pre-trained checkpoints
-| Architecture             | Parameters | FLOPs | Top-1 / Top-5 Accuracy (%) | Download |
+| Architecture             | Parameters | FLOPs | Top-1 / Top-5 Acc. (%) | Download |
 | :----------------------: | :--------: | :---: | :------------------------: | :------: |
-| Lambda-ResNet-50 | 14.995M | 6.576G | 78.208 / 93.820 | [model]() &#124; [log]() |
+| Lambda-ResNet-50 | 14.995M | 6.576G | 78.208 / 93.820 | [model](https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/EUZkICtpXitIq6PGa6h6m_YBnFXCiCYTSuqoIUqiR33C5A?e=mhgEbC) &#124; [log](https://hkustconnect-my.sharepoint.com/:t:/g/personal/dlibh_connect_ust_hk/EQuZ1itCS2dFpN2MBVepL5YBQe9N-ZUv6y4vNdO5uiVFig?e=dX7Id1) |
