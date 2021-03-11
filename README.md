@@ -27,7 +27,7 @@ If you find this repository useful in your research, please cite
 ```bibtex
 @InProceedings{Li_2021_CVPR,
 author = {Li, Duo and Hu, Jie and Wang, Changhu and Li, Xiangtai and She, Qi and Zhu, Lei and Zhang, Tong and Chen, Qifeng},
-title = {Dynamic Hierarchical Mimicking Towards Consistent Optimization Objectives},
+title = {Involution: Inverting the Inherence of Convolution for Visual Recognition},
 booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},
 year = {2021}
